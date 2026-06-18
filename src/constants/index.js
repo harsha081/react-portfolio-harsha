@@ -33,6 +33,12 @@ export const EDUCATION = [
 
 export const ACHEIEVEMENTS = [
   {
+    year:"2022-2023",
+    title: " JEE-MAINS and JEE-advance Examinations",
+    explanation:"Secured 99.2 percentile in JEE Mains, ranking in the top 0.6% nationwide and ranked 1107 in JEE(ADVANCED) — reflecting strong fundamentals in physics,mathematics, and mechanical problem-solving.",
+    address:"Raman Bhavan,Vijayawada,Andhra Pradesh,India",
+  },
+  {
     year:"2025",
     title: "DRDO Project under professor Dr. Manogna Karthik Gangaraju",
     explanation:"Extracted UTS, density, elongation, and modulus data from scientific literature for various WHA compositions.Work aligned with DRDO application areas in material optimization and impact-performance prediction,Optimization of Tungsten Heavy Alloy penetartor design using Statstical Analysis",
@@ -44,16 +50,11 @@ export const ACHEIEVEMENTS = [
   explanation: "Solved 200+ LeetCode problems and developed strong problem-solving skills in Data Structures and Algorithms.",
   address: "LeetCode"
   },
-  {
-    year:"2022-2023",
-    title: " JEE-MAINS and JEE-advance Examinations",
-    explanation:"Secured 99.2 percentile in JEE Mains, ranking in the top 0.6% nationwide and ranked 1107 in JEE(ADVANCED) — reflecting strong fundamentals in physics,mathematics, and mechanical problem-solving.",
-    address:"Raman Bhavan,Vijayawada,Andhra Pradesh,India",
-  },
+
 ];
 
 export const CONTACT = {
-  address: "IIT(BHU) Varanasi",
+  address: "IIT(BHU) Varanasi,Uttar Pradesh,India",
   phoneNo: "+91 9642710719",
   email: "dharsha.vardhan.mec23@itbhu.ac.in",
 };
